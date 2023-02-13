@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://ankur219.github.io/publication/</link>
+      <atom:link href="https://ankur219.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 11:58:34 +0530</lastBuildDate>
+    <image>
+      <url>https://ankur219.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ankur219.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Input Fusion for Practical Pedestrian Intention Prediction</title>
+      <link>https://ankur219.github.io/publication/pie_iccv/</link>
+      <pubDate>Sun, 15 Aug 2021 11:58:34 +0530</pubDate>
+      <guid>https://ankur219.github.io/publication/pie_iccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Curious Case of Convex Neural Networks</title>
+      <link>https://ankur219.github.io/publication/convex-neural-networks/</link>
+      <pubDate>Thu, 15 Jul 2021 13:58:25 +0530</pubDate>
+      <guid>https://ankur219.github.io/publication/convex-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedestrian Intention Prediction with Multi-Input Concatenation</title>
+      <link>https://ankur219.github.io/publication/pie/</link>
+      <pubDate>Thu, 15 Jul 2021 11:58:34 +0530</pubDate>
+      <guid>https://ankur219.github.io/publication/pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT Image Synthesis Using Weakly Supervised Segmentation and Geometric Inter-Label Relations For COVID Image Analysis</title>
+      <link>https://ankur219.github.io/publication/covid/</link>
+      <pubDate>Wed, 15 Jul 2020 12:50:11 +0530</pubDate>
+      <guid>https://ankur219.github.io/publication/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Colorization using CNNs and Keyframes extraction: An application in saving bandwidth</title>
+      <link>https://ankur219.github.io/publication/video-colorization/</link>
+      <pubDate>Mon, 15 Jul 2019 11:03:49 +0530</pubDate>
+      <guid>https://ankur219.github.io/publication/video-colorization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
